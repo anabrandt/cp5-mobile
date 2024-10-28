@@ -5,5 +5,5 @@ data class Medication(
     val name: String,
     val dosage: String,
     val stock: Int,
-    val reminderTime: String // Hora do lembrete
+    val reminderTime: String
 )
