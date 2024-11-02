@@ -1,4 +1,3 @@
-Aqui está um exemplo de um `README.md` para o seu projeto de controle de medicamentos em Kotlin com integração ao Firebase. Ele inclui uma introdução ao projeto, o processo de pesquisa, a definição de personas, insights, funcionalidades do aplicativo e detalhes sobre a configuração do Firebase.
 
 ---
 
