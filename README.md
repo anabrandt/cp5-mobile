@@ -117,14 +117,3 @@ Agora, o Firebase está configurado para ser usado no aplicativo. Ele pode ser u
 - **Material Design** para estilização de UI.
 - **MVVM** como padrão arquitetural para organizar o código.
 
-## Como Contribuir
-
-1. Faça um fork do projeto.
-2. Crie uma nova branch com a sua feature (`git checkout -b feature/sua-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie para o repositório (`git push origin feature/sua-feature`).
-5. Abra um Pull Request.
-
----
-
-Esse `README.md` deve ajudar a guiar desenvolvedores e colaboradores interessados em contribuir com o projeto.
